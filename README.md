@@ -91,6 +91,12 @@ This project was completed as part of a virtual job simulation on Forage and is 
 
 ---
 
+If you’d like to join or complete this program, you can access it through the following link:
+
+🔗 Program Link: https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy?reloaded=true
+
+---
+
 ## 👤 Author
 **Sojib Chandra Roy**  
 Aspiring full-stack data scientist
